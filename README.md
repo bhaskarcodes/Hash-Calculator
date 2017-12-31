@@ -1,4 +1,4 @@
-# PasswordCrack
+# Hash-Calculator
 
 Simple md5 password cracking using Python
 
