@@ -13,4 +13,11 @@ which can be split using ":" for getting the original password.
 
 Assumption : passwords.txt is in the same directory as hash_calculator.py
 
+Steps:  
+1) Go to terminal.  
+2) Move to the directory where hash_calculator.py and passwords.txt file are present.  
+3) Type the following:  
+python hash_calculator.py  
+The file with all the password:hash pairs i.e, hash.txt would be stored in the same directory.  
+
 
