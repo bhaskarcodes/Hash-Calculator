@@ -1,6 +1,6 @@
 # Hash-Calculator
 
-Simple md5 password cracking using Python
+Simple md5 hash calculation using Python
 
 Make a file "passwords.txt" with a list of common passwords to try for brute forcing.
 
