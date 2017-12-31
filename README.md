@@ -1,10 +1,10 @@
 # Hash-Calculator
 
-Simple md5 hash calculation using Python
+Simple MD5 hash calculation using Python
 
 Make a file "passwords.txt" with a list of common passwords to try for brute forcing.
 
-This python script calculates md5 hash value of all the passwords in "passwords.txt" file and stores in a file "hash.txt" in the  
+This python script calculates MD5 hash value of all the passwords in "passwords.txt" file and stores in a file "hash.txt" in the  
 following format:  
 
 \<password\>:\<hashed value\>
