@@ -9,7 +9,8 @@ following format:
 
 \<password\>:\<hashed value\>
 
-which can be split using ":" for getting the original password.
+which can be split using ":" for getting the original password.  
 
+Assumption : passwords.txt is in the same directory as hash_calculator.py
 
 
